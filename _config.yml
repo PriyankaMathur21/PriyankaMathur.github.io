@@ -30,7 +30,7 @@ resume_pdf: Pradeep Jaladi.pdf
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: assets/GetPersonaPhoto.jpg
+about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
   15 years of experience in information technology industry. Last 8+ years working as architect designing systems for domains like Storage, Travel, Enterprise & FedRAMP. Architecting the systems from end to end scenarios like
   
